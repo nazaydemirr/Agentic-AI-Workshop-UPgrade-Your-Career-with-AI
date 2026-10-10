@@ -1,0 +1,6 @@
+{
+  "name": "Kariyer & Mülakat Koçu",
+  "description": "Mülakatçının unvanına özel akıllı soru simülasyonu ve eğitim içeriklerine göre kişiselleştirilmiş kariyer yol haritası oluşturan yapay zeka koçu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
